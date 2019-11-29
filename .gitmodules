@@ -1,0 +1,3 @@
+[submodule "productos"]
+	path = productos
+	url = https://github.com/Snyem/productos.git
